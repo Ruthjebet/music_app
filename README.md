@@ -1,6 +1,6 @@
-# step_01
+# Music_app
 
-A new Flutter project.
+A Music App made using flutter
 
 ## Getting Started
 
